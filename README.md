@@ -1,1 +1,1 @@
-# recipes-counter
+# Recipes-Counter
